@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slimd388
-- 👀 I’m interested in python and computer programming/coding
+- 👀 I’m interested in python, JAVA and computer programming/coding
 - 🌱 I’m currently learning python while studying computer scicence
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... is there a message system on here? I'm new to this..
